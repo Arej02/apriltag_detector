@@ -27,6 +27,7 @@
     "variantName": "debug",
     "isDebuggableEnabled": true,
     "validAbiList": [
+      "armeabi-v7a",
       "arm64-v8a"
     ],
     "buildTargetSet": [
@@ -144,7 +145,6 @@
         "rootBuildGradleFolder": "C:\\Users\\khadk\\OneDrive\\Desktop\\arej00_CK65",
         "sdkFolder": "C:\\Users\\khadk\\AppData\\Local\\Android\\Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
-        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false
       },
