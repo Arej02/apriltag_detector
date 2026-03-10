@@ -1,0 +1,3 @@
+C:/Users/khadk/OneDrive/Desktop/arej00_CK65/opencv/.cxx/Debug/3o27v5v7/x86_64/CMakeFiles/opencv_jni_shared.dir
+C:/Users/khadk/OneDrive/Desktop/arej00_CK65/opencv/.cxx/Debug/3o27v5v7/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/khadk/OneDrive/Desktop/arej00_CK65/opencv/.cxx/Debug/3o27v5v7/x86_64/CMakeFiles/rebuild_cache.dir
